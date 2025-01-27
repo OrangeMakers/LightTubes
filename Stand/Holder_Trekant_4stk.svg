@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="244.19579mm"
+   height="244.19579mm"
+   viewBox="0 0 244.19579 244.19579"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible"><path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1" /></marker><pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0"><path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" /><path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" /><path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" /></pattern><symbol
+       id="*MODEL_SPACE" /><symbol
+       id="*PAPER_SPACE" /></defs><g
+     id="layer1"
+     transform="translate(17.076903,-26.402111)"><g
+       id="g1"
+       transform="matrix(0.26458333,0,0,0.26458333,-22.944611,-20.534393)"><g
+         id="g4" /><g
+         id="g5"><path
+           d="M 93.672066,1099.8425 H 944.60973 A 944.88189,944.88189 0 0 0 22.677165,177.90996 v 850.93764 a 96.377953,96.377953 0 0 1 70.994901,70.9949 z"
+           style="fill:none;stroke:#000000"
+           id="path5" /></g></g></g></svg>

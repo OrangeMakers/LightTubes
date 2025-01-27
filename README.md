@@ -1,36 +1,62 @@
-# LightTubes
+# Lysrør
 
-An open-source project for creating modular LED light tubes with 3D printed components and custom electronics.
+Et open-source projekt til at skabe modulære LED-lysrør med 3D-printede komponenter og specialdesignet elektronik.
 
-## Overview
+## Oversigt
 
-LightTubes is a DIY project that allows you to build customizable LED light tubes. The system consists of 3D printable parts and custom electronics, making it easy to create your own professional-looking light fixtures.
+LightTubes er et gør-det-selv projekt, der giver dig mulighed for at bygge tilpassede LED-lysrør. Systemet består af 3D-printbare dele og specialdesignet elektronik, hvilket gør det nemt at skabe dine egne professionelt udseende lysarmaturer.
 
-## Components
+## Komponenter
 
-### 3D Printed Parts
+### Stativ Filer
 
-| Filename | Description |
+Stativet er designet til at blive fræset i 12mm krydsfiner ved hjælp af en CNC-maskine med en bit-størrelse mindre end eller lig med 5mm. Følgende filer er tilgængelige i både DXF- og SVG-format:
+
+| Filnavn | Beskrivelse | Links |
+|----------|-------------|-------|
+| Holder_Arm_4stk | Arme til stativet (4 styk påkrævet) | [DXF](Stand/Holder_Arm_4stk.dxf), [SVG](Stand/Holder_Arm_4stk.svg) |
+| Holder_Bundplade | Bundplade til stativet | [DXF](Stand/Holder_Bundplade.dxf), [SVG](Stand/Holder_Bundplade.svg) |
+| Holder_TopPlade | Topplade til stativet | [DXF](Stand/Holder_TopPlade.dxf), [SVG](Stand/Holder_TopPlade.svg) |
+| Holder_Trekant_4stk | Trekantede støtter (4 styk påkrævet) | [DXF](Stand/Holder_Trekant_4stk.dxf), [SVG](Stand/Holder_Trekant_4stk.svg) |
+
+#### Fræsekrav
+- Materiale: 12mm krydsfiner
+- CNC bit-størrelse: <= 5mm
+- Filer er tilgængelige i både DXF-format (til CAM-software) og SVG-format (til forhåndsvisning og alternative arbejdsgange)
+
+### 3D-Printede Dele
+
+| Filnavn | Beskrivelse |
 |----------|-------------|
-| Dowel.3mf | Support dowel for internal structure |
-| Electronics_V1.3mf | Housing for electronic components |
-| LED_Fixture_Narrow_V1.3mf | Narrow variant of LED mounting fixture |
-| LED_Fixture_Wide_V1.3mf | Wide variant of LED mounting fixture |
-| Top_Part1_V1.3mf | Upper section component 1 |
-| Top_Part2_V1.3mf | Upper section component 2 |
-| TopCap_V1.3mf | Cap for the top of the light tube |
-| Tube_Part1_V1.3mf | Main tube body section 1 |
-| Tube_Part2_V1.3mf | Main tube body section 2 |
-| TwistHandle_V1.3mf | Twist mechanism for assembly/disassembly |
+| Dowel.3mf | Støttedowel til intern struktur |
+| Electronics_V1.3mf | Kabinet til elektroniske komponenter |
+| LED_Fixture_Narrow_V1.3mf | Smal variant af LED-monteringsbeslag |
+| LED_Fixture_Wide_V1.3mf | Bred variant af LED-monteringsbeslag |
+| Top_Part1_V1.3mf | Øverste sektion komponent 1 |
+| Top_Part2_V1.3mf | Øverste sektion komponent 2 |
+| TopCap_V1.3mf | Hætte til toppen af lysrøret |
+| Tube_Part1_V1.3mf | Hovedrør sektion 1 |
+| Tube_Part2_V1.3mf | Hovedrør sektion 2 |
+| TwistHandle_V1.3mf | Drejemekanisme til montering/afmontering |
 
-## Setup
+### Elektronik
 
-Instructions for assembly and setup coming soon.
+#### Diagrammer
+Det elektriske diagram for LightTubes er tilgængeligt i følgende formater:
+- [PDF Format](Schematics/Schematic.pdf)
+- [KiCad Projekt](Schematics/Schematics.kicad_sch)
 
-## Usage
+#### Stykliste (BOM)
+*TODO: Komplet stykliste med komponenter og mængder kommer snart*
 
-Usage instructions and examples coming soon.
+## Opsætning
 
-## License
+Vejledning til samling og opsætning kommer snart.
 
-See the [LICENSE](LICENSE) file for details.
+## Anvendelse
+
+Brugsanvisning og eksempler kommer snart.
+
+## Licens
+
+Se [LICENSE](LICENSE) filen for detaljer.
