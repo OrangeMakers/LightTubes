@@ -12,14 +12,13 @@ LightTubes er et gør-det-selv projekt, der giver dig mulighed for at bygge tilp
 
 Stativet er designet til at blive fræset i 12mm krydsfiner ved hjælp af en CNC-maskine med en bit-størrelse mindre end eller lig med 5mm. Følgende filer er tilgængelige i både DXF- og SVG-format:
 
-![Samlet stativ](Stand/Holder_Assembled_v2.png)
+![Samlet stativ](Stand/Holder_Assembled_v3.png)
 
 | Filnavn | Beskrivelse | Links |
 |----------|-------------|-------|
 | Holder_Arm_4stk | Arme til stativet (4 styk påkrævet) | [DXF](Stand/Holder_Arm_4stk.dxf), [SVG](Stand/Holder_Arm_4stk.svg) |
 | Holder_Bundplade | Bundplade til stativet | [DXF](Stand/Holder_Bundplade.dxf), [SVG](Stand/Holder_Bundplade.svg) |
 | Holder_TopPlade | Topplade til stativet | [DXF](Stand/Holder_TopPlade.dxf), [SVG](Stand/Holder_TopPlade.svg) |
-| Holder_Trekant_4stk | Trekantede støtter (4 styk påkrævet) | [DXF](Stand/Holder_Trekant_4stk.dxf), [SVG](Stand/Holder_Trekant_4stk.svg) |
 
 #### Fræsekrav
 - Materiale: 12mm krydsfiner
